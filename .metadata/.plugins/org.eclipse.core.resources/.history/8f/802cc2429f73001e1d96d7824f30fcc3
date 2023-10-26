@@ -1,0 +1,5 @@
+package cl.polyden.apirest.models.entity;
+
+public class Cliente {
+
+}
